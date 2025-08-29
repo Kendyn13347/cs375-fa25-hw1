@@ -1,0 +1,4 @@
+pwd: /workspaces/cs375-fa25-hw1/command-line/command-line-easy
+ls: easy-log.txt  hello.txt.save  test.txt
+cat hello_copy.txt: Hello Linux! 
+test.txt: Test
